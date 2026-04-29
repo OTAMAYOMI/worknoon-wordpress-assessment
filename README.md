@@ -26,13 +26,13 @@ This structure was chosen to ensure clarity, reduce friction, and improve conver
 
 ### Tools, Theme & Plugins Used**
 
-**Hello Elementor Theme**
+**Hello Elementor Theme:**
 I used the Hello Elementor theme because it is lightweight, minimal, and highly optimized for performance. It provides a clean base without unnecessary bloat, allowing Elementor to handle all design and layout needs efficiently. This helps improve page speed, reduces conflicts, and ensures better overall site performance and SEO optimization.
 
-**Elementor**
+**Elementor:**
 Used as the primary page builder to design and structure the landing page visually. It enabled fast development, responsive layout control, and flexible section design without custom coding.
 
-**Yoast SEO**
+**Yoast SEO:**
 Used for on-page SEO optimization including:
 •	Meta titles and descriptions 
 •	Focus keyword optimization 
@@ -40,27 +40,27 @@ Used for on-page SEO optimization including:
 •	XML sitemap generation support 
 This ensured the page is properly optimized for search engine visibility.
 
-**LiteSpeed Cache**
+**LiteSpeed Cache:**
 Used to improve website performance by:
 -	Enabling page caching 
 -	Reducing server load 
 -	Improving page load speed 
 -	Optimizing Core Web Vitals performance 
 
-**Smush**
+**Smush:**
 Used for image optimization by:
 -	Compressing images without quality loss 
 -	Reducing page weight 
 -	Improving loading speed and performance 
 
-**WP Rocket**
+**WP Rocket:**
 Used for advanced performance optimization including:
 -	File minification (CSS, JS, HTML) 
 -	Lazy loading of images 
 -	Cache optimization 
 -	Performance improvements for faster page rendering 
 
-**Site Kit by Google**
+**Site Kit by Google:**
 Used to integrate key Google services:
 -	Google Analytics (GA4) for user tracking and behavior insights 
 -	Google Search Console for indexing and performance monitoring 
