@@ -8,20 +8,20 @@ This repository contains my submission for the Worknoon WordPress Developer (SEO
 - /schemas → JSON-LD schema markup files
 - /docs → SEO, troubleshooting, and knowledge panel strategy
 
-**Worknoon WordPress Assessment – System Reflection:**
+**-  Worknoon WordPress Assessment – System Reflection:**
 Overview of the Project
 For this assessment, I built a conversion-focused WordPress landing page for tech courses on the live environment, fully optimized in all devices as well as browsers:
 👉 https://worknoon.greatimpactfoundation.org/
 The goal was to design a structured learning landing page that drives user engagement and conversions while demonstrating SEO, WordPress development, and system-thinking capabilities.
 The page was designed with a clear user journey flow, starting from awareness (hero section), building trust (testimonials), and driving action (call-to-action and forms).
 
-**Approach to the Solution**
+**-  Approach to the Solution**
 I adopted a conversion-first and systems-based approach when designing the landing page.
 The structure was intentionally simplified to guide users through a focused journey:
-•	A static hero section with a strong CTA to immediately capture attention 
-•	A programs/services section to communicate value and offerings 
-•	A testimonials section to build trust and social proof 
-•	A contact/enrollment form to drive conversions and lead capture 
+- 	A static hero section with a strong CTA to immediately capture attention 
+- 	A programs/services section to communicate value and offerings 
+- 	A testimonials section to build trust and social proof 
+- 	A contact/enrollment form to drive conversions and lead capture 
 This structure was chosen to ensure clarity, reduce friction, and improve conversion rates.
 
 **Tools, Theme & Plugins Used**
