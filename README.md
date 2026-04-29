@@ -1,14 +1,14 @@
-Worknoon WordPress Assessment
+**Worknoon WordPress Assessment**
 
-Overview
+**Overview**
 This repository contains my submission for the Worknoon WordPress Developer (SEO + Systems Specialist) Assessment.
 
-Folder Structure
+**Folder Structure**
 - /wp-project → Contains theme files, Elementor templates, custom code
 - /schemas → JSON-LD schema markup files
 - /docs → SEO, troubleshooting, and knowledge panel strategy
 
-**Worknoon WordPress Assessment – System Reflection**
+**Worknoon WordPress Assessment – System Reflection:**
 Overview of the Project
 For this assessment, I built a conversion-focused WordPress landing page for tech courses on the live environment, fully optimized in all devices as well as browsers:
 👉 https://worknoon.greatimpactfoundation.org/
