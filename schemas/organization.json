@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "alternateName": "Worknoon Academy",
+  "url": "https://worknoon.greatimpactfoundation.org",
+  "logo": "https://worknoon.greatimpactfoundation.org/wp-content/uploads/2026/04/Whisk_c0d13d518a93255ae5b4ea07497bd739dr-removebg-preview-e1776275090338.png",
+  "description": "Worknoon provides digital training programs to help individuals learn in-demand tech skills, grow their careers, and stay competitive in the digital economy.",
+  "sameAs": [
+    "https://facebook.com/",
+    "https://instagram.com/",
+    "https://linkedin.com/",
+    "https://twitter.com/"
+  ],
+  "founder": {
+    "@type": "Person",
+    "name": "Samuel"
+  },
+  "foundingDate": "2024",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "info@worknoon.com",
+    "availableLanguage": [
+      "en"
+    ]
+  }
+}

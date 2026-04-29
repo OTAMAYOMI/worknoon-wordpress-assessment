@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Worknoon",
+  "url": "https://worknoon.greatimpactfoundation.org",
+  "description": "Worknoon is a digital skills learning platform offering online courses and practical training programs designed for beginners, students, and professionals.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Worknoon",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://worknoon.greatimpactfoundation.org/wp-content/uploads/2026/04/Whisk_c0d13d518a93255ae5b4ea07497bd739dr-removebg-preview-e1776275090338.png"
+    }
+  },
+  "inLanguage": "en",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://worknoon.greatimpactfoundation.org/?s={search_term}",
+    "query-input": "required name=search_term"
+  }
+}
