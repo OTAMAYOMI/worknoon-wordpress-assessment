@@ -15,7 +15,7 @@ For this assessment, I built a conversion-focused WordPress landing page for tec
 The goal was to design a structured learning landing page that drives user engagement and conversions while demonstrating SEO, WordPress development, and system-thinking capabilities.
 The page was designed with a clear user journey flow, starting from awareness (hero section), building trust (testimonials), and driving action (call-to-action and forms).
 
-## Approach to the Solution
+### Approach to the Solution
 I adopted a conversion-first and systems-based approach when designing the landing page.
 The structure was intentionally simplified to guide users through a focused journey:
 - 	A static hero section with a strong CTA to immediately capture attention 
