@@ -1,9 +1,9 @@
-# Worknoon WordPress Assessment
+Worknoon WordPress Assessment
 
-## Overview
+Overview
 This repository contains my submission for the Worknoon WordPress Developer (SEO + Systems Specialist) Assessment.
 
-## Folder Structure
+Folder Structure
 - /wp-project → Contains theme files, Elementor templates, custom code
 - /schemas → JSON-LD schema markup files
 - /docs → SEO, troubleshooting, and knowledge panel strategy
