@@ -66,7 +66,7 @@ Used to integrate key Google services:
 -	Google Search Console for indexing and performance monitoring 
 -	Site performance insights within WordPress dashboard 
 
-**Tracking & Analytics Implementation**
+### Tracking & Analytics Implementation
 Google Analytics 4 was successfully integrated using Site Kit by Google. This allows tracking of:
 -	User visits 
 -	Engagement behavior 
@@ -78,19 +78,19 @@ Additionally, Google Search Console was connected to monitor:
 -	Crawl performance 
 -	Search visibility improvements 
 
-**Key Decisions & Reasoning**
+### Key Decisions & Reasoning
 -	A static hero section was used to improve conversion focus and reduce distraction 
 -	Testimonials were added to increase trust and credibility 
 -	The structure was intentionally kept minimal to improve user flow and engagement 
 -	Plugins were carefully selected to balance performance, SEO, and usability 
 -	A live WordPress environment was used to simulate a real-world production deployment 
 
-**Tradeoffs Considered**
+### Tradeoffs Considered
 -	Simplicity vs complexity → A minimal layout was chosen for better conversion performance 
 -	Plugin usage vs manual coding → Plugins were used to speed up development and ensure stability 
 -	Design flexibility vs performance → Lightweight structure was prioritized for faster loading speed 
 
-**Challenges Encountered**
+### Challenges Encountered
 -	Balancing performance optimization while using multiple plugins 
 -	Ensuring proper SEO configuration across live environment 
 -	Managing image optimization without losing visual quality 
